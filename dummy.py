@@ -18,9 +18,9 @@ n = (random.random() * 100) % 20
 k = int(n)
 
 for i in range(k):
-    print("Hello world")
+    print("Hello world!")
     if (d.second % 2 == 1):
-        print("hello world")
+        print("hello world!")
         
 
 
